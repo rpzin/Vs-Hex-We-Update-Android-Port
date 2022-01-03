@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Dunk", "hex", [146, 113, 253]],
+		["Ram", "hex", [146, 113, 253]],
+		["Hello World", "hex", [146, 113, 253]],
+   ["Glitcher", "hex-g", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"hex",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Hextravaganza",
+	"weekBefore": "Week X",
+	"weekName": "Week X",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
